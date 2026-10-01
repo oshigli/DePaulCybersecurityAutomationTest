@@ -1,2 +1,1 @@
-# DePaulCybersecurityAutomationTest
-week 3 homework for CSEC 480
+This is a sample readme
